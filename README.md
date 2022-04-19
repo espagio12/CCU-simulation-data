@@ -1,2 +1,2 @@
-# DIB-D-21-01816
+# CCU simulation data
 Data for the simulation of different CO2 utilization processes.
